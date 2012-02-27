@@ -1,0 +1,3 @@
+Proprietary and supplemental files support for the Motorola Xoom MZ601.
+
+This contains support scripts to add proprietary RIL and other binaries from a Honeycomb device to an AOSP build, as well as to import chainsdd's Superuser binaries (see vendor_chainsdd_everest) into the build if desired.
